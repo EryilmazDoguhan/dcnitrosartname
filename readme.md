@@ -5,7 +5,7 @@
  
  
  <h2>Eğer 2. yolu seçti iseniz zaten kural basit aktif olan kişileri davet ederek 1 aylık nitro alabilirsiniz</h2> 
- Arkadaşınnızı davet etti isneniz arkadaşlarınızın siber güvenlik veya yazılım ile ilgisi olup kanalda aktif davranması gerek 
+ Arkadaşınızı davet etti isneniz arkadaşlarınızın siber güvenlik veya yazılım ile ilgisi olup kanalda aktif davranması gerek 
                                                                                                    
                                                                                                    
                                                                                               Doguhan Eryılmaz (EryTech Genel başkanı)
