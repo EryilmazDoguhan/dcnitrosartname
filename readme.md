@@ -4,9 +4,9 @@
  öğrenmek için ben sıklıkla #kurslar kanalına paylaşım yapıyorum eğer kendinizi kanıtladığınızı düşünüyorsanız bana DM den ulaşın @sudo apt install happiness#0001
  
  
- Eğer 2. yolu seçti iseniz zaten kural basit aktif olan kişileri davet ederek 1 aylık nitro alabilirsiniz 
+ <h2>Eğer 2. yolu seçti iseniz zaten kural basit aktif olan kişileri davet ederek 1 aylık nitro alabilirsiniz</h2> 
  Arkadaşınnızı davet etti isneniz arkadaşlarınızın siber güvenlik veya yazılım ile ilgisi olup kanalda aktif davranması gerek 
                                                                                                    
                                                                                                    
-                                                                                                   <b>Doguhan Eryılmaz (EryTech Genel başkanı)</b>
+                                                                                                Doguhan Eryılmaz (EryTech Genel başkanı)
 </p>                                              
