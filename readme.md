@@ -8,5 +8,5 @@
  Arkadaşınnızı davet etti isneniz arkadaşlarınızın siber güvenlik veya yazılım ile ilgisi olup kanalda aktif davranması gerek 
                                                                                                    
                                                                                                    
-                                                                                                Doguhan Eryılmaz (EryTech Genel başkanı)
+                                                                                              Doguhan Eryılmaz (EryTech Genel başkanı)
 </p>                                              
