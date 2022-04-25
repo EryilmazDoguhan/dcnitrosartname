@@ -9,4 +9,5 @@
                                                                                                    
                                                                                                    
                                                                                               Doguhan Eryılmaz (EryTech Genel başkanı)
+                                                                                              sunucu linki : discord.gg/erytech
 </p>                                              
